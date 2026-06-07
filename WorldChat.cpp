@@ -15,7 +15,6 @@
  *   - SQL setup (see sql/worldchat_setup.sql)
  *
  * Credits:
- *   Script by cybermist2 (cybermist2@gmail.com)
  *   Published under the WoWEmu.de community — https://wowemu.de
  *   Emulator resources: https://emervoid.de
  */
