@@ -143,9 +143,6 @@ Additional emulator tools, resources, and development support for WoW private se
 ## 📄 License
 
 This script is released free of charge for the WoW private server community.  
-**Credit the original author** (`cybermist2`) and link back to [WoWEmu.de](https://wowemu.de) if you redistribute or modify this script.
-
-Original author: **cybermist2** — cybermist2@gmail.com
 
 ---
 
